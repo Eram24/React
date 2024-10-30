@@ -2,7 +2,7 @@
   "name": "ns",
   "version": "1.0.0",
   "description": "npm packages",
-  "main": "one1.js",
+  
   "scripts": {
     "test": "jest"
   },
@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Eram24/react#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }

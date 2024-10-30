@@ -9,6 +9,10 @@
     </div>
 </div> */
 
+import  React from "react";
+import ReactDOM from "react-dom";
+
+
 const p=React.createElement("div",
     {id : "parent"},
     React.createElement("div",
