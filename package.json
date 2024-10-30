@@ -1,0 +1,22 @@
+{
+  "name": "ns",
+  "version": "1.0.0",
+  "description": "npm packages",
+  "main": "one1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eram24/react.git"
+  },
+  "author": "Eram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eram24/react/issues"
+  },
+  "homepage": "https://github.com/Eram24/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
