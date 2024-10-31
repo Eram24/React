@@ -4,6 +4,8 @@
   "description": "npm packages",
   
   "scripts": {
+    "start":"parcel one1.html",
+    "build":"parcel build one1.html",
     "test": "jest"
   },
   "repository": {
